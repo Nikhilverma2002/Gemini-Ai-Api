@@ -1,4 +1,4 @@
-cat <<EOF > README.md
+
 # Gemini - AI Chat Bot NodeJS integration
 
 Gemini is a Google AI-powered chat bot integrated into a Node.js application. This chat bot allows users to ask questions, and in response, it generates answers based on the given prompt. It utilizes Google's advanced AI capabilities to provide accurate and helpful responses.
@@ -56,4 +56,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 - Thanks to Google for providing the powerful AI technology used in this project.
 - Inspired by the potential of AI chat bots to enhance user experiences.
-EOF
