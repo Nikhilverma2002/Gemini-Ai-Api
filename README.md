@@ -48,10 +48,6 @@ Contributions are welcome! If you'd like to contribute to Gemini, please follow 
 5. Push to the branch (\`git push origin feature/your-feature\`).
 6. Create a new Pull Request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgements
 
 - Thanks to Google for providing the powerful AI technology used in this project.
