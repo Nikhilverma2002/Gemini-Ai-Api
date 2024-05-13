@@ -1,11 +1,11 @@
 cat <<EOF > README.md
-# Gemini - Google AI Chat Bot
+# Gemini - AI Chat Bot NodeJS integration
 
 Gemini is a Google AI-powered chat bot integrated into a Node.js application. This chat bot allows users to ask questions, and in response, it generates answers based on the given prompt. It utilizes Google's advanced AI capabilities to provide accurate and helpful responses.
 
 ## Features
 
-- **Google AI Integration:** Utilizes Google's AI technology to generate responses.
+- **Gemini AI Integration:** Utilizes Google's AI technology to generate responses.
 - **Natural Language Understanding:** Understands natural language queries for providing relevant answers.
 - **Node.js Backend:** Built using Node.js for efficient and scalable performance.
 
@@ -14,12 +14,12 @@ Gemini is a Google AI-powered chat bot integrated into a Node.js application. Th
 To get started with Gemini, follow these steps:
 
 1. **Clone the Repository:**
-   \`\`\`bash
-   git clone https://github.com/your-username/gemini.git
+   \`\`\`
+   git clone https://github.com/Nikhilverma2002/Gemini-Ai-Api
    \`\`\`
 
 2. **Install Dependencies:**
-   \`\`\`bash
+   \`\`\`
    npm install
    \`\`\`
 
@@ -28,12 +28,10 @@ To get started with Gemini, follow these steps:
    - Set up the credentials in your environment variables or directly in the code.
 
 4. **Run the Application:**
-   \`\`\`bash
-   npm start
+   \`\`\`
+   npm run index.js
    \`\`\`
 
-5. **Access Gemini:**
-   Open your web browser and navigate to \`http://localhost:3000\` to start using Gemini.
 
 ## Usage
 
